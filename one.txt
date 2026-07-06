@@ -1,7 +1,0 @@
-one
-<<<<<<< HEAD
-hello
-=======
-1
-11
->>>>>>> refs/remotes/origin/main
